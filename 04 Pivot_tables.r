@@ -19,3 +19,9 @@ pivot_table3 <- dcast(cyclistic_no_dups, formula = day_of_week ~ member_casual,
 print(pivot_table1)
 print(pivot_table2)
 print(pivot_table3)
+
+# Export pivot tables to CSV files
+write.csv(pivot_table1, file = "pivot_table1.csv", row.names = FALSE)
+write.csv(pivot_table2, file = "pivot_table2.csv", row.names = FALSE)
+write.csv(pivot_table3, file = "pivot_table3.csv", row.names = FALSE)
+write.csv(cyclistic_no_dups, file = "cyclistic_no_dups.csv", row.names = FALSE)
