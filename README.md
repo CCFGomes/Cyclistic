@@ -1,9 +1,7 @@
-# Case Study: How Does a Bike-Share Navigate Speedy Success?
-
-Welcome to the Cyclistic bike-share analysis case study! This repository contains the code, documentation, and datasets for a comprehensive data analysis project conducted for Cyclistic, a bike-share company in Chicago.
+# Cyclistic Data Analysis
 
 ## Objective
-The objective of this case study is to analyze the usage patterns of annual members and casual riders to gain insights that will inform a new marketing strategy. By answering key business questions, we aim to design effective strategies to convert casual riders into annual members and maximize Cyclistic's growth potential.
+The objective is to analyze the usage patterns of annual members and casual riders to gain insights that will inform a new marketing strategy. By answering key business questions, we aim to design effective strategies to convert casual riders into annual members and maximize Cyclistic's growth potential.
 
 ## Project Details
 - Platform: Kaggle
